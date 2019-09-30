@@ -2,7 +2,7 @@ package app
 
 import (
 	"net/http"
-	u "go-contacts/utils"
+	u "CRUD-GO/utils"
 )
 
 var NotFoundHandler = func(next http.Handler) http.Handler {
