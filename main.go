@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-contacts/controllers"
+	"CRUD-GO/controllers"
 	"net/http"
 	"os"
 
